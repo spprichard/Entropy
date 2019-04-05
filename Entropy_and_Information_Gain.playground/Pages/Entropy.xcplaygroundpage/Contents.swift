@@ -1,4 +1,3 @@
-import Cocoa
 import Foundation
 
 // Use change of base formula to compute log with any base
@@ -67,7 +66,7 @@ struct ball {
 // Ideally we would want to make this more generic...
 // We could make a Protocol that would enforce some of the constraints that would allow
 // for a type safe way to compute entroy on a generic collection of things
-// IDEA: protocol Entryable? (thats a gross name 😄)
+// IDEA: protocol Entroyable? (thats a gross name 😅)
 extension Array where Element == ball {
     // setProbability ... currently contains 2 for loops. Maybe thinking more about this we could optimize this?
     func setProbability() -> [ball] {
@@ -171,6 +170,7 @@ anotherBucket.entropy()
 
 /*
     NOTE:
-    To this point we have only considered "datasets" with 2 clases. At a language level we also only know how to compute entroy
-    for Arrays that contain the ball type. Ideally we would want something more generic
+    To this point we have only considered "datasets" with 2 clases.
+    At a language level we also only know how to compute entropy for Arrays that contain the ball type.
+    Ideally we would want something more generic
 */

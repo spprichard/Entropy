@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Timeline
+   version = "3.0">
+   <TimelineItems>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/stevenprichard/Developer/Swift/Playgrounds/Entropy_and_Information_Gain/Entropy_and_Information_Gain.playground/Pages/Entropy.xcplaygroundpage#CharacterRangeLen=22&amp;CharacterRangeLoc=3828&amp;EndingColumnNumber=26&amp;EndingLineNumber=134&amp;StartingColumnNumber=4&amp;StartingLineNumber=134&amp;Timestamp=576175774.717658"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/stevenprichard/Developer/Swift/Playgrounds/Entropy_and_Information_Gain/Entropy_and_Information_Gain.playground/Pages/Entropy.xcplaygroundpage#CharacterRangeLen=21&amp;CharacterRangeLoc=4134&amp;EndingColumnNumber=26&amp;EndingLineNumber=138&amp;StartingColumnNumber=5&amp;StartingLineNumber=138&amp;Timestamp=576175774.717862"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/stevenprichard/Developer/Swift/Playgrounds/Entropy_and_Information_Gain/Entropy_and_Information_Gain.playground/Pages/Entropy.xcplaygroundpage#CharacterRangeLen=21&amp;CharacterRangeLoc=3981&amp;EndingColumnNumber=26&amp;EndingLineNumber=136&amp;StartingColumnNumber=5&amp;StartingLineNumber=136&amp;Timestamp=576175774.718022"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/stevenprichard/Developer/Swift/Playgrounds/Entropy_and_Information_Gain/Entropy_and_Information_Gain.playground/Pages/Entropy.xcplaygroundpage#CharacterRangeLen=21&amp;CharacterRangeLoc=3829&amp;EndingColumnNumber=26&amp;EndingLineNumber=134&amp;StartingColumnNumber=5&amp;StartingLineNumber=134&amp;Timestamp=576175774.718143"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/stevenprichard/Developer/Swift/Playgrounds/Entropy_and_Information_Gain/Entropy_and_Information_Gain.playground/Pages/Entropy.xcplaygroundpage#CharacterRangeLen=24&amp;CharacterRangeLoc=4284&amp;EndingColumnNumber=29&amp;EndingLineNumber=141&amp;StartingColumnNumber=5&amp;StartingLineNumber=141&amp;Timestamp=576175774.718256"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/stevenprichard/Developer/Swift/Playgrounds/Entropy_and_Information_Gain/Entropy_and_Information_Gain.playground/Pages/Entropy.xcplaygroundpage#CharacterRangeLen=25&amp;CharacterRangeLoc=4353&amp;EndingColumnNumber=30&amp;EndingLineNumber=142&amp;StartingColumnNumber=5&amp;StartingLineNumber=142&amp;Timestamp=576175774.71837"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/stevenprichard/Developer/Swift/Playgrounds/Entropy_and_Information_Gain/Entropy_and_Information_Gain.playground/Pages/Entropy.xcplaygroundpage#CharacterRangeLen=24&amp;CharacterRangeLoc=4513&amp;EndingColumnNumber=29&amp;EndingLineNumber=144&amp;StartingColumnNumber=5&amp;StartingLineNumber=144&amp;Timestamp=576175774.718483"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/stevenprichard/Developer/Swift/Playgrounds/Entropy_and_Information_Gain/Entropy_and_Information_Gain.playground/Pages/Entropy.xcplaygroundpage#CharacterRangeLen=25&amp;CharacterRangeLoc=4582&amp;EndingColumnNumber=30&amp;EndingLineNumber=145&amp;StartingColumnNumber=5&amp;StartingLineNumber=145&amp;Timestamp=576175774.718593"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/stevenprichard/Developer/Swift/Playgrounds/Entropy_and_Information_Gain/Entropy_and_Information_Gain.playground/Pages/Entropy.xcplaygroundpage#CharacterRangeLen=24&amp;CharacterRangeLoc=4742&amp;EndingColumnNumber=29&amp;EndingLineNumber=147&amp;StartingColumnNumber=5&amp;StartingLineNumber=147&amp;Timestamp=576175774.718703"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/stevenprichard/Developer/Swift/Playgrounds/Entropy_and_Information_Gain/Entropy_and_Information_Gain.playground/Pages/Entropy.xcplaygroundpage#CharacterRangeLen=25&amp;CharacterRangeLoc=4811&amp;EndingColumnNumber=30&amp;EndingLineNumber=148&amp;StartingColumnNumber=5&amp;StartingLineNumber=148&amp;Timestamp=576175774.718811"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+   </TimelineItems>
+</Timeline>
